@@ -31,7 +31,7 @@ First addition of rest' - 02/02/2019
 
 - User information (command.userinfo or command.ui)
 
-
+########################################################################
 
 Version française du bot disponible ici : https://github.com/BinaryBreakFast/Bot2Test
 
