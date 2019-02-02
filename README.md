@@ -34,4 +34,5 @@ First addition of rest' - 02/02/2019
 
 
 Version française du bot disponible ici : https://github.com/BinaryBreakFast/Bot2Test
+
 English version of the bot available here: https://github.com/BinaryBreakFast/Bot2Test-EN
